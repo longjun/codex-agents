@@ -86,7 +86,7 @@
 - 框架：`docs/agents/frameworks/SWIFTUI.md`、`APPKIT.md`、`REACT.md`、`NEXTJS.md`、`HONO.md`
 - 平台：`docs/agents/platforms/MACOS.md`、`WECHAT.md`、`WEB.md`
 - 领域：`docs/agents/domains/BACKEND.md`、`API.md`、`DATABASE.md`、`FILESYSTEM.md`、`AUTH.md`、`SECURITY.md`、`ACCESSIBILITY.md`
-- 工具：`docs/agents/tooling/TESTING.md`、`DOCKER.md`、`GITHUB_ACTIONS.md`
+- 工具：`docs/agents/tooling/GIT.md`、`TESTING.md`、`DOCKER.md`、`GITHUB_ACTIONS.md`
 
 框架不自动绑定语言或平台，必须根据实际项目判断。例如 Next.js 可以使用 JavaScript 或 TypeScript，Hono 可以运行在不同 runtime。
 
@@ -102,6 +102,7 @@
 - 新增或修改测试及测试基础设施：加载 `TESTING.md`
 - 修改容器构建或运行配置：加载 `DOCKER.md`
 - 修改 GitHub Actions workflow：加载 `GITHUB_ACTIONS.md`
+- 创建或调整分支、合并、rebase、worktree、hotfix、版本标签或发布分支策略：加载 `GIT.md`
 
 普通代码验证不要求加载 `TESTING.md`；普通文件编辑不代表应用涉及 `FILESYSTEM.md`。
 

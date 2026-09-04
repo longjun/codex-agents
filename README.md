@@ -9,7 +9,7 @@ Codex 全局开发规范与按任务路由加载的技术规则集合。
 - `docs/agents/frameworks/`：框架规则
 - `docs/agents/platforms/`：平台规则
 - `docs/agents/domains/`：业务与系统领域规则
-- `docs/agents/tooling/`：测试、容器和 CI 等工具规则
+- `docs/agents/tooling/`：Git、测试、容器和 CI 等工具规则
 
 ## 本地接入
 
